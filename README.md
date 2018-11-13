@@ -1,4 +1,11 @@
-# Front
+# Angular + Loopback API
+
+Proyecto realizado mediante el seguimiento del curso hecho por Domini Code
+https://www.youtube.com/playlist?list=PL_9MDdjVuFjGJm9hBCwIb2nkLYIf83o2A
+
+Usando Angular 7 para practicar y aprender más de peticiones HTTP, Servicios, Interfaces, entre otros.
+
+//////////////////
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
